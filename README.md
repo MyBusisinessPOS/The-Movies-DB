@@ -2,6 +2,11 @@
 The-Movies-DB
 
 
+APK DEMO
+https://drive.google.com/file/d/1yzkhG-4QXKwOVOGlUCBJWqVkwuxBqpgY/view?usp=sharing
+
+
+
 El punto que me falto terminar fue la persistencia de datos, no opte por agregar ROOM o SQLITE
 ya que para este caso quería analizar un poco mas el desarrollo así que me encontré una librería
 llamada CoroutinesCache, la cual me pareció muy interesante, ya que me permite tener persistencia
@@ -18,10 +23,8 @@ https://github.com/epam/CoroutinesCache
 
 
 
-<img src="Screenshot_1.png" alt="Girl in a jacket" width="180" height="400">
+<img src="Screenshot_1.png" width="180" height="400">
+<img src="Screenshot_2.png" width="180" height="400">
 
-<img src="Screenshot_2.png" alt="Girl in a jacket" width="180" height="400">
-
-<img src="Screenshot_3.png" alt="Girl in a jacket" width="180" height="400">
-
-<img src="Screenshot_4.png" alt="Girl in a jacket" width="180" height="400">
+<img src="Screenshot_3.png" width="180" height="400">
+<img src="Screenshot_4.png" width="180" height="400">
