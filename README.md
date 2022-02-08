@@ -18,10 +18,10 @@ https://github.com/epam/CoroutinesCache
 
 
 
-<img src="Screenshot_1.png" alt="Girl in a jacket" width="150" height="400">
+<img src="Screenshot_1.png" alt="Girl in a jacket" width="180" height="400">
 
-<img src="Screenshot_2.png" alt="Girl in a jacket" width="150" height="400">
+<img src="Screenshot_2.png" alt="Girl in a jacket" width="180" height="400">
 
-<img src="Screenshot_3.png" alt="Girl in a jacket" width="150" height="400">
+<img src="Screenshot_3.png" alt="Girl in a jacket" width="180" height="400">
 
-<img src="Screenshot_4.png" alt="Girl in a jacket" width="150" height="400">
+<img src="Screenshot_4.png" alt="Girl in a jacket" width="180" height="400">
